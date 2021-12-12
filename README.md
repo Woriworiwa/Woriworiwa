@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Woriworiwa
+- 👋 Hi, I’m Omar Dalgamuni
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on UX
