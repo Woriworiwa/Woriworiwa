@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on UX
-- 📫 Reach me at omar@dalgamuni.e
+- 📫 Reach me at omar@dalgamuni.me
 
 <!---
 Woriworiwa/Woriworiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
